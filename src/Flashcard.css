@@ -1,0 +1,8 @@
+
+    .border-gradient-gray {
+        border-radius: 50%;
+        border-image-slice: 1;
+        
+     
+        border-image-source: linear-gradient(to left, #164EC0, #06286E);
+    }
